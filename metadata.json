@@ -1,0 +1,6 @@
+{
+  "name": "Codext",
+  "description": "Visual discovery and bookmarking platform with dynamic masonry feeds, themed boards, pin curation, social following, and explore channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
